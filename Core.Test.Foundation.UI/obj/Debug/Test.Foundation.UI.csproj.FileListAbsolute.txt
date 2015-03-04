@@ -1,0 +1,14 @@
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Configs\AppConfig.xml
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Configs\EnvironmentConfig.xml
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.UI.dll
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.UI.pdb
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\System.dll
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.dll
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.UI.Contracts.dll
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.UI.Contracts.pdb
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Test.Foundation.pdb
+C:\Learning\Integrated\Test.Foundation.UI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Learning\Integrated\Test.Foundation.UI\obj\Debug\Test.Foundation.UI.csprojResolveAssemblyReference.cache
+C:\Learning\Integrated\Test.Foundation.UI\obj\Debug\Test.Foundation.UI.dll
+C:\Learning\Integrated\Test.Foundation.UI\obj\Debug\Test.Foundation.UI.pdb

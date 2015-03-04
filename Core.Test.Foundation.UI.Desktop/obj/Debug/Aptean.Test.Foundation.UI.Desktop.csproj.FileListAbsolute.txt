@@ -1,0 +1,96 @@
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Configs\AppConfig.xml
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Configs\EnvironmentConfig.xml
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\System.Data.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\System.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\System.Drawing.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\System.Windows.Forms.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClient.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClientsideProviders.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\UIAutomationProvider.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\UIAutomationTypes.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\WindowsBase.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.pdb
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.pdb
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.pdb
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.csprojResolveAssemblyReference.cache
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\BaseTestFramework\Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\AppConfig.xml
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\EnvironmentConfig.xml
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Data.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Drawing.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Windows.Forms.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClient.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClientsideProviders.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationProvider.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationTypes.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\WindowsBase.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.pdb
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.pdb
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.pdb
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.csprojResolveAssemblyReference.cache
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\AppConfig.xml
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\EnvironmentConfig.xml
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Data.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Drawing.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Windows.Forms.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClient.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClientsideProviders.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationProvider.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationTypes.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\WindowsBase.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.pdb
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.pdb
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.pdb
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\Mahadevan\Testing COE\ROSS Project\Framework - Base\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\AppConfig.xml
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Configs\EnvironmentConfig.xml
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Desktop.pdb
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Data.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Drawing.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\System.Windows.Forms.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClient.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationClientsideProviders.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationProvider.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\UIAutomationTypes.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\WindowsBase.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.Contracts.pdb
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.UI.pdb
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Aptean.Test.Foundation.pdb
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.dll
+C:\Automation\Base_Intuitive_Desktop\Desktop\BaseTestFramework\Aptean.Test.Foundation.UI.Desktop\obj\Debug\Aptean.Test.Foundation.UI.Desktop.pdb

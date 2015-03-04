@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Environments>
+  <!--Set the URL of the application-->
+  <WebEnvironment Name="WebQA" UrlOrAppPath="http://banmesauto:8080/mviusers/appframes.jsp?_pageLoaded=true">
+    <!--Set Username and password of the product   
+    Previous Value : http://10.183.116.203:8080/mviusers/appframes.jsp?_pageLoaded=true 
+    -->
+    <User UserName="Respond" Password="Respond"></User>
+    </WebEnvironment>
+  <DesktopEnvironment Name="DesktopQA" UrlOrAppPath="C:\Program Files (x86)\Aptean\Respond Configuration Manager\Configuration Manager.exe">
+    <!--Set Username and password of the product-->
+    <User UserName="Respond" Password="Respond"></User>
+  </DesktopEnvironment>
+  <!--Can switch between different environments-->
+  <WebEnvironment Name="WebStage" UrlOrAppPath="">
+    <User UserName="" Password=""></User>
+      </WebEnvironment>
+  <DesktopEnvironment Name="DesktopStage" UrlOrAppPath="">
+    <!--Set Username and password of the product-->
+    <User UserName="" Password=""></User>
+  </DesktopEnvironment>
+ </Environments>
