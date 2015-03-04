@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+        <link href="ReportStylesheet.css" rel="stylesheet" type="text/css" media="all"/>
+         <script src="http://code.jquery.com/jquery-1.9.1.js"></script>  
+         <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>	
+		<script>
+		
+		function getChartData(canvas){
+			var list = jQuery(".data");
+			var passed = parseInt(jQuery(list[0]).text());
+			var failed = parseInt(jQuery(list[1]).text());
+			
+			var option ={
+					data:[passed,failed],
+					colors:["#1BE06D", "Red"],
+					labels:["Passed", "Failed"],
+					width:canvas.width,
+					height:canvas.height,
+					centerX:canvas.width/2,
+					centerY:canvas.height/2
+				}
+			
+			return option;
+		}
+		
+
+		function showRows(className, show){			
+			var allElements = jQuery(className);
+			for (var i = 0; i<allElements.length; i++) {
+				if(show){
+					jQuery(allElements[i]).show();
+				}else{
+					jQuery(allElements[i]).hide();
+				}
+			}
+		}
+		
+		function passedClick(){	
+			sessionStorage.setItem('SelectedOption', "Passed");			
+			showRows(".Passed", true);
+			showRows(".Failed", false);
+		}
+		
+		function totalClick(){
+			sessionStorage.setItem('SelectedOption', "Total");
+			showRows(".Passed", true);
+			showRows(".Failed", true);
+		}
+		
+		function failedClick(){
+			sessionStorage.setItem('SelectedOption', "Failed");
+			showRows(".Passed", false);
+			showRows(".Failed", true);
+		}
+		
+		function drawChart (option, canvas){
+			var ctx = canvas.getContext("2d");		
+			ctx.beginPath();
+			ctx.clearRect(0, 0,canvas.width, canvas.height);
+			var width = option.width;
+			var data = option.data;		
+			var colors = option.colors;	
+			var lastPosition = 0, total = 0;		
+			for (var i = 0; i < data.length; i++) {
+				total += data[i]; 
+			}		
+			var leftmargin = 0;
+			var radius =(width/2) - leftmargin;	
+			var center = [option.centerX , option.centerY];	
+			var acr = false;
+			if(data[1]>0){
+				acr = true;
+			}
+			for (var i = 0; i < data.length; i++) {	
+				ctx.beginPath();
+				ctx.fillStyle = colors[i];	
+				ctx.moveTo(center[0],center[1]);		
+				var startAngel = lastPosition;
+				var temp = lastPosition+(Math.PI*2*(data[i]/total));		
+				var endAngle = temp;		
+				ctx.arc(center[0],center[1],radius,startAngel, endAngle,false);	
+				if(acr){
+					ctx.lineTo(center[0],center[1]);
+				}
+				ctx.closePath();
+				if(acr){
+					ctx.strokeStyle="white";
+					ctx.lineWidth="2";
+					ctx.stroke();
+				}
+				ctx.fill();	
+				lastPosition += Math.PI*2*(data[i]/total);	
+			}
+		}
+		
+		window.onload = function(){
+			var selectedOption;
+			if(sessionStorage.SelectedOption == 'undefined'){
+				selectedOption = "Failed";
+			}
+			else{
+				selectedOption = sessionStorage.SelectedOption;
+			}
+			
+			switch(selectedOption){
+			case "Passed":
+				passedClick();
+				break;
+			case "Failed":
+				failedClick();
+				break;				
+			case "Total":
+				totalClick();
+				break;
+				default:
+					failedClick();
+					break;
+			}
+			
+			var canvas =document.getElementsByTagName("canvas")[0];
+			var option = getChartData(canvas);			
+			drawChart(option, canvas);
+			option+="<option value='3'>Owner</option>";
+			option+="<option value='4'>Priority</option>";
+            option+="<option value='5'>Category</option>";
+			option+="<option value='6'>Module</option>";
+
+			jQuery("select").html(option);
+			$("select[onchange='changeGroup()']").val('2');
+			jQuery("select").change();
+		}
+		
+		function changeGroup(){			
+			var val = jQuery("select").val();	
+			var text =  jQuery("select option[value='"+val+"']").text();
+			var items=[];
+			var list = jQuery('#testCaseList tr td:nth-child('+val+')');			
+			for(var i=0; i<list.length;i++){
+			   items.push( jQuery(list[i]).text());       
+			}
+			
+			Array.prototype.contains = function(v) {
+			    for(var i = 0; i < this.length; i++) {
+			        if(this[i] === v) return true;
+			    }
+			    return false;
+			};
+
+			Array.prototype.unique = function() {
+			    var arr = [];
+			    for(var i = 0; i < this.length; i++) {
+			        if(!arr.contains(this[i])) {
+			            arr.push(this[i]);
+			        }
+			    }
+			    return arr; 
+			}
+			
+			var items = items.unique();
+			var table =getHeader(text);
+			for(var i=0; i<items.length;i++){
+				var passed = getCont("Passed", val-1,items[i]);	
+				var failed = getCont("Failed", val-1,items[i]);
+				table+=getRow(items[i], passed, failed);
+			}
+			
+			jQuery('#groupByTable').html(table)
+		}
+		
+		
+		function getCont(result, index, value){			
+			var list = jQuery("tr[class='"+result+"']:contains('"+value+"')")
+			var count =0;
+			for(var i=0; i<list.length;i++){
+				var x = $(list[i]).children()[index] 
+				if($(x).text().trim() == value)
+					count++;
+			}			
+			return count;
+		}
+		
+		function getHeader(groupBy){
+			var row = "<tr>";
+			row+="<th>"+groupBy+"</th>";
+			row+="<th>Passed</th>";
+			row+="<th>Failed</th>";
+			row+="<th>Total</th>";
+			row+="</tr>";
+			return row;
+		}
+		
+		function getRow(groupBy, passed, falied){
+			var row = "<tr>";
+			row+="<td>"+groupBy+"</td>";
+			row+="<td>"+passed+"</td>";
+			row+="<td>"+falied+"</td>";
+			row+="<td>"+(passed+falied)+"</td>";
+			row+="</tr>";
+			return row;
+		}
+		</script>
+	</head>
+	<body>
+    DETAILS
+	</body>
+</html>

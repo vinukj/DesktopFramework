@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Page>
+  <IFrame name="Content Frame" path="//iframe[@id ='contentframe']">
+  </IFrame>
+  <IFrame name="Master Frame" path="//iframe[@id ='masterFrame']">
+  </IFrame>
+  <!--<Control name = "User Name Text Box">
+    <Path>//*[@id="input_username"]</Path>
+  </Control>
+  <Control name = "Password Text Box">
+    <Path>//*[@id="input_password"]</Path>
+  </Control>
+  <Control name = "Login Button">
+    <Path>//*[@name="Submit"]</Path>
+  </Control>-->
+  
+  <Control name = "User Name Text Box Sel" pathType="Selenium">
+    <Path>/html/body/table/tbody/tr[2]/td/table/tbody/tr[1]/td[2]/div/table/tbody/tr/td/form/table/tbody/tr[2]/td[1]/input</Path>
+  </Control>
+  <Control name = "Password Text Box Sel" pathType="Selenium">
+    <Path>/html/body/table/tbody/tr[2]/td/table/tbody/tr[1]/td[2]/div/table/tbody/tr/td/form/table/tbody/tr[3]/td[1]/input</Path>
+  </Control>
+  <Control name = "Login Button Sel" pathType="Selenium">
+    <Path>/html/body/table/tbody/tr[2]/td/table/tbody/tr[1]/td[2]/div/table/tbody/tr/td/form/table/tbody/tr[4]/td/input</Path>
+  </Control>
+  <Control name = "ApteanHamburger" pathType="Selenium">
+    <Path>/html/body/div[1]/div[2]/div[1]/a/div/img</Path>
+  </Control>
+  <Control name = "Setup Icon" pathType="Selenium">
+    <Path>/html/body/div[2]/div/div[1]/div/ul/li[3]/div/a/div[1]/img</Path>
+  </Control>
+  <Control name = "Product Menu" pathType="Selenium">
+    <Path>/html/body/div[3]/div[11]/ul/li[3]/a</Path>
+  </Control>
+  <Control name = "Product Group Option" pathType="Selenium">
+    <Path>/html/body/div[3]/div[5]/ul/li[3]/a</Path>
+  </Control>
+  <Control name = "Add Button" pathType="Selenium">
+    <Path>/html/body/div[1]/table/tbody/tr[2]/td/form/div[2]/table/tbody/tr/td[1]</Path>
+  </Control>
+  <Control name = "Submit Button" pathType="Selenium">
+    <Path>/html/body/div/table/tbody/tr[2]/td/form/div[2]/table/tbody/tr/td[3]</Path>
+  </Control>
+  <Control name = "Group Name Text Box" pathType="Selenium">
+    <Path>/html/body/div/table/tbody/tr[2]/td/form/div[1]/table/tbody/tr/td[2]/input</Path>
+  </Control>
+
+
+  <!--<Control name = "Login Button">
+    <Path>input[name='Submit']</Path>
+  </Control>
+  <Control name = "User Name Text Box Sel" pathType="Selenium">
+    <Path>//*[@id="input_username"]</Path>
+  </Control>
+  <Control name = "Password Text Box Sel" pathType="Selenium">
+    <Path>//*[@id="input_password"]</Path>
+  </Control>
+  <Control name = "Login Button Sel" pathType="Selenium">
+    <Path>//*[@name="Submit"]</Path>
+  </Control>
+  <Control name = "ApteanHamburger" pathType="Selenium">
+    <Path>//*[@id="aptean-hamburger"]</Path>
+  </Control>
+  <Control name = "Setup Icon" pathType="Selenium">
+    <Path>//img[contains(@src, 'wrench')]</Path>
+  </Control>
+  <Control name = "Product Menu" pathType="Selenium">
+    <Path>//a[.='Products  >']</Path>
+  </Control>
+  <Control name = "Product Group Option" pathType="Selenium">
+    <Path>//a[.='Product groups']</Path>
+  </Control>
+  <Control name = "Add Button" pathType="Selenium">
+    <Path>#buttonDiv > table > tbody > tr > td.aptean-button</Path>
+  </Control>
+  <Control name = "Submit Button" pathType="Selenium">
+    <Path>(//td[@id=''])[3]</Path>
+  </Control>
+  <Control name = "Group Name Text Box" pathType="Selenium">
+    <Path>//*[@name="groupName"]</Path>
+  </Control>-->
+</Page>
