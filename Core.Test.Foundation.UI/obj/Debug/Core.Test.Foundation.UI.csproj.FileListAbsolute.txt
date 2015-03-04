@@ -12,3 +12,17 @@ C:\Automation\GitHub\Desktop\Core.Test.Foundation.UI\bin\Debug\Microsoft.VisualS
 C:\Automation\GitHub\Desktop\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.csprojResolveAssemblyReference.cache
 C:\Automation\GitHub\Desktop\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.dll
 C:\Automation\GitHub\Desktop\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.pdb
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Configs\AppConfig.xml
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Configs\EnvironmentConfig.xml
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.UI.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.UI.pdb
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.UI.Contracts.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\System.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.UI.Contracts.pdb
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Core.Test.Foundation.pdb
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.csprojResolveAssemblyReference.cache
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.dll
+C:\GitHub\Desktop\DesktopFramework\Core.Test.Foundation.UI\obj\Debug\Core.Test.Foundation.UI.pdb
